@@ -1,5 +1,4 @@
 <h1 align="center">
- <img src="/public/assets/Logo.svg" />
 Coffee Delivery
 </h1>
 <p align="center">
