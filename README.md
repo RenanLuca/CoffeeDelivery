@@ -27,6 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [FormProvider](https://www.react-hook-form.com/api/formprovider/)
 - [zod](https://zod.dev)
 - [Outlet](https://reactrouter.com/en/main/components/outlet)
+- [StyledComponents]
 
 ## 💻 Projeto
 
