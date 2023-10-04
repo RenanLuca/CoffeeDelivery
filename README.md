@@ -32,27 +32,30 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-
+Coffee Delivery é uma aplicação de venda de café, onde foi desenvolvido uma lógica de carrinho de compras e um formulário de
+endereço. Foi uma aplicação bastante desafiadora e que obtive muito aprendizado, muito feliz com o resultado e por conseguir
+desenvolvê-la em um período curto de tempo. Na aplicação em questão utilizei algum dos principais hooks como useState, useEffect,
+useContext, assim como o useForm para o formulário.
 
 ## 🧱 Layout
 <p> <a href="https://www.figma.com/file/Gf4GYGk4TOo7VdRPKHkaBu/Coffee-Delivery-•-Desafio-React-(Copy)?type=design&node-id=2-12&mode=design&t=2IBBhzseoMGOIiUp-0" target="_blank"> Veja o layout do projeto! </a> </p>
 
 ##  🖼 Confira a Demo
 
-<p> <a href="https://ignite-timer-gules-three.vercel.app" target="_blank"> Confira o site </a> </p>
+<p> <a href="https://coffee-delivery-delta-dun.vercel.app" target="_blank"> Confira o site </a> </p>
 
 ## 🔧 Como rodar
 
 ### 🗂 Faça um clone do projeto
 
 ```bash
-git clone https://github.com/RenanLuca/Ignite-timer.git
+git clone https://github.com/RenanLuca/CoffeeDelivery.git
 ```
 
 ### 📥 Instale as dependências
 ```bash
 # Acesse o diretório do projeto
-cd ignite-timer
+cd coffee-delivery
 
 # Instale as dependências
 yarn 
