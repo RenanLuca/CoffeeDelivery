@@ -5,7 +5,7 @@ Coffee Delivery
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-rodar">Como rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://to-do-list-delta-ashy.vercel.app" target="_blank">Acesse o site</a>
+  <a href="https://coffee-delivery-delta-dun.vercel.app"" target="_blank">Acesse o site</a>
 </p>
 
 <br>
