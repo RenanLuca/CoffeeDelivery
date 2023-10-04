@@ -40,7 +40,7 @@ export function Banner() {
                 </BannerInfosBulletPoints>
             </BannerInfos>
             <div className="img">
-                <img src="public\assets\BannerHome.svg" alt="" />
+                <img src="\assets\BannerHome.svg" alt="" />
             </div>
         </BannerContainer>
     )

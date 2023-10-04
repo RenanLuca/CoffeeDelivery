@@ -59,7 +59,7 @@ export function OrderFinished() {
                         </div>
                     </div>
                 </OrderFinishedInfos>
-                <img src="public\assets\finishedOrder.svg" alt="" />
+                <img src="\assets\finishedOrder.svg" alt="" />
             </FinishedMain>
         </OrderFinishedContainer>
     )
