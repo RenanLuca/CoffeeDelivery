@@ -28,6 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [zod](https://zod.dev)
 - [Outlet](https://reactrouter.com/en/main/components/outlet)
 - [StyledComponents]
+- [LocalStorage]
 
 ## 💻 Projeto
 
