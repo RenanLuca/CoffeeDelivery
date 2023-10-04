@@ -2,7 +2,7 @@ import { MapPinLine } from "phosphor-react";
 import { BaseInputAdress, CustomerAdress, CustomerAdressMain } from "./styles";
 import { useFormContext } from "react-hook-form";
 export function AddressForm() {
-    const { register, setValue, watch } = useFormContext();
+    const { register, setValue } = useFormContext();
 
     function checkCEP(event: any) {
         const cep = event.target.value.replace(/\D/g, '');

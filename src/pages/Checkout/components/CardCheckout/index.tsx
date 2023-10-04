@@ -2,8 +2,6 @@ import { Minus, Plus, Trash } from "phosphor-react";
 import { CardCheckout, IncreaseOrDecrease, Remove } from "./styles";
 import { useContext } from "react";
 import { CardContext } from "../../../../context/CardContext";
-import { NumericFormat } from "react-number-format";
-
 interface CoffeeCardCheckout {
     title: string;
     img: string;

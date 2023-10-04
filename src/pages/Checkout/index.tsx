@@ -5,7 +5,7 @@ from "./styles";
 import { AddressForm } from "./components/AddressForm";
 import { PaymentForm } from "./components/PaymentForm";
 import { OrderResume } from "./components/OrderResume";
-import { useForm, FormProvider, SubmitHandler } from 'react-hook-form'
+import { useForm, FormProvider } from 'react-hook-form'
 import * as zod from 'zod'
 import { zodResolver } from '@hookform/resolvers/zod'
 import { CardContext } from "../../context/CardContext";

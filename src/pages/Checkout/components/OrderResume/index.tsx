@@ -1,9 +1,8 @@
-import React, { useContext, useEffect, useState } from 'react';
-import { useFormContext } from 'react-hook-form';
+import  { useContext, useEffect, useState } from 'react';
 import { CardContext } from '../../../../context/CardContext';
 import { currencyFormat } from '../../../../utils/currencyFormat';
 import { CoffeeCardCheckout } from '../CardCheckout';
-import { OrderContainer, OrderPrices, OrderItens, Order, CheckFields, EmptyCart } from './styles';
+import { OrderContainer, OrderPrices, OrderItens, Order, EmptyCart } from './styles';
 import { FormAddressErrors } from '../AddressForm/FormAddressErrors';
 import { ListPlus } from 'phosphor-react'
 
