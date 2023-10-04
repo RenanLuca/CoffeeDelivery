@@ -22,7 +22,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React JS](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Router](https://reactrouter.com/en/main)
-- [ThemeProvider](https://luby.com.br/desenvolvimento/software/theme-provider-com-styled-components/)
 - [useContext](https://react.dev/reference/react/useContext)
 - [UseForm](https://react-hook-form.com/docs/useform)
 - [FormProvider](https://www.react-hook-form.com/api/formprovider/)
