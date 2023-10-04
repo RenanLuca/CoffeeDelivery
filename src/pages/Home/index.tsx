@@ -7,8 +7,6 @@ from "./styles";
 import { Card } from "./components/Card";
 import { useContext } from "react";
 import { CardContext } from "../../context/CardContext";
-import {DistanceMatrixService, GoogleMap} from '@react-google-maps/api'
-
 export function Home() {
     const {catalogCoffees} = useContext(CardContext)
     return (

@@ -1,6 +1,5 @@
 import { createContext, useEffect, useState } from "react";
 import dataCoffee from '../../data/TypeCoffee/data.json'
-import { Coffee } from "phosphor-react";
 
 export type CoffeesType = {
     id: number

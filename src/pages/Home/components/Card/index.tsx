@@ -1,9 +1,7 @@
 import { Minus, Plus, ShoppingCart } from "phosphor-react";
 import { CardFooter, CardHeader, CardMain, CoffeeCard } from "./styles";
-import { useContext, useEffect, useState } from "react";
+import { useContext, useState } from "react";
 import { CardContext, CoffeesType } from "../../../../context/CardContext";
-
-
 
 export function Card( { description,id,img,price,tags,title,cartQtd } : CoffeesType) {
     const coffee = {description,id,img,price,tags,title,cartQtd}
@@ -28,7 +26,6 @@ export function Card( { description,id,img,price,tags,title,cartQtd } : CoffeesT
         }
         return
     }
-
 
     return (
         <CoffeeCard>

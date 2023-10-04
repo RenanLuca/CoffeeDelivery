@@ -3,8 +3,7 @@ import { PaymentMethod, PaymentMethodHeader, PaymentMethodMain } from "./styles"
 import { useFormContext } from "react-hook-form";
 
 export function PaymentForm() {
-    const { register, formState } = useFormContext()
-    const { errors } = formState
+    const { register } = useFormContext()
     return (
         <PaymentMethod>
             <PaymentMethodHeader>
